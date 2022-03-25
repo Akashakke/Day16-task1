@@ -1,0 +1,41 @@
+a{
+    color:rgb(252, 1, 1)
+}
+.fa{
+    color:rgba(248, 248, 15, 0.993)
+}
+.pn{
+    left:80px;
+    position: relative;
+}
+.p{
+    left:110px;
+    position: relative;
+}
+#dewey{
+    left:20px;
+    position: relative;
+    margin-left:50px;
+}
+#dew{
+    left:26px;
+    position: relative;
+    margin-left:50px;
+}
+.row1{
+    background-color: rgb(200, 204, 207);
+}
+.row2{
+    background-color: rgb(238, 238, 238);
+}
+#de{
+    margin-left: 50px;
+    right: 40px;
+    position: relative;
+}
+.box{
+    width: 500px;
+    left:400px;
+    position: relative;
+    border-radius:1px solid black;
+}
