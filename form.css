@@ -35,7 +35,6 @@ a{
 }
 .box{
     width: 500px;
-    left:400px;
     position: relative;
     border-radius:1px solid black;
 }
